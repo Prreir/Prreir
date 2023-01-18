@@ -1,7 +1,8 @@
-# Hello World...
-:point_right: I'm Luís Pereira, but you can call me **Prreira**!
+<h1> Hello World...</h1>
 
-:brain:	Currently studying programming at [42Porto](https://www.42porto.com/)!
-> What else you will find here is 42 projects in C and C++.
+- 👋 I'm Luís Pereira, but you can call me **Prreira**!
+- 🌱 Currently studying Common Core at [**42Porto**](https://www.42porto.com/)!
+- 📪 How to reach me **luispereira02@outlook.pt**.
 
-![C](https://imgur.com/MbpYAc0.png) ![C++](https://imgur.com/6Wg7L5Q.png) ![Linux](https://imgur.com/WLjP7yd.png) 
+<h2 align="center">Languages and Tools:</h3>
+<p align="center"> <img src="https://imgur.com/MbpYAc0.png" alt="c" width="50" height="50"/> <img src="https://imgur.com/6Wg7L5Q.png" alt="c" width="50" height="50"/> <img src="https://i.imgur.com/26syMYi.png" alt="c" width="50" height="50"/> <img src="https://imgur.com/WLjP7yd.png" alt="c" width="50" height="50"/> </p>
