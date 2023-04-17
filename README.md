@@ -1,15 +1,11 @@
 <h1> Hello World...</h1>
 
 - 👋 I'm Luís Pereira, but you can call me **Prreira**!
+- 👨‍💻 Learning Full Stack Development.
 - 🌱 Currently studying Common Core at [**42Porto**](https://www.42porto.com/)!
 - 📪 How to reach me **luispereira02@outlook.pt**.
 
-<h3>Social:</h3>
-<p>
-  <a href="https://www.linkedin.com/in/lu%C3%ADs-pereira-a89a86262/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-</p>
 
-<h2 align="center">Languages and Tools:</h2>
-<p align="center"> <img src="https://imgur.com/MbpYAc0.png" alt="c" width="50" height="50"/> <img src="https://imgur.com/6Wg7L5Q.png" alt="c" width="50" height="50"/> <img src="https://imgur.com/WLjP7yd.png" alt="c" width="50" height="50"/> </p>
+<h2 align="Left"><img src="https://media1.giphy.com/media/2Ygy0khwewLgMSYM0t/giphy.gif?cid=6c09b952ccf349ed1c4b7ff41ae74a7222c85ff7229cb85f&rid=giphy.gif&ct=s" width ="20">  Languages and Tools:</h2>
+<br><p align="Center"> <img src="https://skillicons.dev/icons?i=c,cpp,html,css,github,bash,linux,vim,vscode" /> </p>
+<p align="Center"> <img width="20%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prreir&theme=transparent&hide_border=true&text_color=FFFFFF&layout=compact"> </p>
