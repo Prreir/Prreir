@@ -8,4 +8,3 @@
 
 <h2 align="Left"><img src="https://media1.giphy.com/media/2Ygy0khwewLgMSYM0t/giphy.gif?cid=6c09b952ccf349ed1c4b7ff41ae74a7222c85ff7229cb85f&rid=giphy.gif&ct=s" width ="20">  Languages and Tools:</h2>
 <br><p align="Center"> <img src="https://skillicons.dev/icons?i=c,cpp,html,css,github,bash,linux,vim,vscode" /> </p>
-<p align="Center"> <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prreir&theme=transparent&hide_border=true&text_color=FFFFFF&layout=compact"> </p>
